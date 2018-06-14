@@ -1,7 +1,9 @@
 <?php
 
+$name = 'Yerkebulan';
+$surname = 'Zhumagali';
 
-$array = [
+/*$array = [
 	0 => '1';
 	1 => '2';
 	2 => '3';
@@ -12,7 +14,7 @@ foreach($array as $key => value) {
 	if($ key == 2) {
 		var_dump($value);
 	}
-}
+} */
 
 /*$var = 'Hello world';
 $var = 25;
@@ -50,3 +52,20 @@ while ($i <= 10){
 } */
 
 ?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test script</title>
+</head>
+<body>
+	<?=$name?>
+	<?=$surname?>
+	<?php
+		if($name == 'Yerkebulan')
+			echo 'name is Yerkebulan';
+		else 
+			echo 'name not Yerkebulan';
+	 ?>
+</body>
+</html>
