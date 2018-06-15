@@ -1,2 +1,8 @@
 backend / wednesday / 13.06
-	
+.........................................
+
+backend / friday / 15.06 | Lesson 2
+	PHP functions, recursion
+........................................
+
+
