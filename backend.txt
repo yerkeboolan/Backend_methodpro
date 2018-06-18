@@ -5,4 +5,7 @@ backend / friday / 15.06 | Lesson 2
 	PHP functions, recursion
 ........................................
 
+backend / monday / 18.06 | Lesson 3
+	HTTP requests
+
 
